@@ -48,5 +48,6 @@
 		- Finding multiple missing elements in an array using Hashing
 		- Finding duplicate elements and count of them in a sorted array
 		- Finding duplicate elements in a sorted array using Hashing
+		- Finding duplicate elements in an unsorted array using traditional and Hashing techniques
 	 
 	 
