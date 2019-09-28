@@ -51,5 +51,6 @@
 		- Finding duplicate elements in an unsorted array using traditional and Hashing techniques
 		- Finding pairs with sum K in an unsorted array using traditional and Hashing techniques
 		- Finding pairs with sum K in an sorted array
+		- Finding minimum and maximum in a single scan of array
 	 
 	 
