@@ -50,5 +50,6 @@
 		- Finding duplicate elements in a sorted array using Hashing
 		- Finding duplicate elements in an unsorted array using traditional and Hashing techniques
 		- Finding pairs with sum K in an unsorted array using traditional and Hashing techniques
+		- Finding pairs with sum K in an sorted array
 	 
 	 
