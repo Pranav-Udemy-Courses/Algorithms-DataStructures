@@ -52,5 +52,14 @@
 		- Finding pairs with sum K in an unsorted array using traditional and Hashing techniques
 		- Finding pairs with sum K in an sorted array
 		- Finding minimum and maximum in a single scan of array
+3. **Strings**
+     - String Basics
+        - Finding Length of String
+		- Changing case of a String
+		- Counting vowels, consonants and number of words in a String
+		- Validating if given String is correct or not
+		- Reversing a String
+		- Comparing Strings and Check if the given String is a Palindrome
+		
 	 
 	 
