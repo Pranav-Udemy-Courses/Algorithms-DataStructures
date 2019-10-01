@@ -30,7 +30,7 @@
      - Linear search operation on array  [[code]](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/ArrayADT/ArrayLinearSearch.cpp)
      - Binary search operation on array  [[code]](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/ArrayADT/ArrayBinarySearch.cpp)
      - Get(), Set(), Avg(), Max() functions on array  [[code]](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/ArrayADT/ArrayGetSetOperations.cpp)
-     - Reversing an array  [[code]] (https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/ArrayADT/ArrayReverse.cpp)
+     - Reversing an array  [[code]](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/ArrayADT/ArrayReverse.cpp)
      	- Auxiliary method : Creating a temporary array and copying the elements to and from it
 		- Interchange method : Swapping first and last element and so on
      - Check if array is sorted, sort the array & rearrange all positive/negative numbers on one side  [[code]](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/ArrayADT/ArraySortedOperations.cpp)
@@ -44,14 +44,14 @@
      - Converting C program to CPP program using Templates  [[code]](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/ArrayADT/ArrayADTTemplateCPP.cpp)
      - Student Challenge
      	- Finding single missing element in an array
-		- Finding multiple missing elements in an array
-		- Finding multiple missing elements in an array using Hashing
-		- Finding duplicate elements and count of them in a sorted array
-		- Finding duplicate elements in a sorted array using Hashing
-		- Finding duplicate elements in an unsorted array using traditional and Hashing techniques
-		- Finding pairs with sum K in an unsorted array using traditional and Hashing techniques
-		- Finding pairs with sum K in an sorted array
-		- Finding minimum and maximum in a single scan of array
+		- Finding multiple missing elements in an array  [[code]](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/ArrayADT/ArraySCFindMultipleMissingElement.cpp)
+		- Finding multiple missing elements in an array using Hashing  [[code]](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/ArrayADT/ArraySCFindMultipleMissingElementHashing.cpp)
+		- Finding duplicate elements and count of them in a sorted array [[code]](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/ArrayADT/ArraySCDuplicateElementsSorted.cpp) 
+		- Finding duplicate elements in a sorted array using Hashing  [[code]](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/ArrayADT/ArraySCDuplicatesHashingSorted.cpp)
+		- Finding duplicate elements in an unsorted array using traditional and Hashing techniques  [[code]](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/ArrayADT/ArraySCDuplicatesUnsorted.cpp)
+		- Finding pairs with sum K in an unsorted array using traditional and Hashing techniques  [[code]](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/ArrayADT/ArraySCFindPairWithSumKUnsorted.cpp)
+		- Finding pairs with sum K in an sorted array  [[code]](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/ArrayADT/ArraySCFindPairWithSumKSorted.cpp)
+		- Finding minimum and maximum in a single scan of array  [[code]](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/ArrayADT/ArraySCMinMaxInSingleScan.cpp)
 3. **Strings**
      - String Basics
         - Finding Length of String
