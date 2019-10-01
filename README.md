@@ -7,15 +7,15 @@
 	 - Types of Recursion :
 	 	- [Head Recursion](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/Recursion/RecursionExample.cpp)
 		- [Tail Recursion](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/Recursion/RecursionExample.cpp)
-		- Indirect Recursion
-		- Nested Recursion
-		- Permutaion Recursion
-		- Subset Recursion
-		- Tree Recursion
-	 - Use of static and global variables in case of recursion
-     - Finding Factorial of a number using recursion
-	 - Finding Fibonnaci series using recursion and memoization
-	 - Finding Palindrome using recursion
+		- [Indirect Recursion](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/Recursion/IndirectRecursion.cpp)
+		- [Nested Recursion](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/Recursion/NestedRecursion.cpp)
+		- [Permutation Recursion](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/Recursion/PermutationRecursion.cpp)
+		- [Subset Recursion](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/Recursion/SubsetRecursion.cpp)
+		- [Tree Recursion](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/Recursion/TreeRecursion.cpp)
+	 - [Use of static and global variables in case of recursion](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/Recursion/Static%26GlobalVariablesInRecursion.cpp)
+     - [Finding Factorial of a number using recursion](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/Recursion/FactorialRecursion.cpp)
+	 - [Finding Fibonnaci series using recursion and memoization](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/Recursion/FibonacciRecursion%26Memoization.cpp)
+	 - [Finding Palindrome using recursion](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/Recursion/PalindromeRecursion.cpp)
 	 - Finding nth power of a number x
 	 - Sum of first N numbers using recursion
 	 - Finding Taylors series using recursion
