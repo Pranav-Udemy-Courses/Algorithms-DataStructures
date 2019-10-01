@@ -66,6 +66,10 @@
 		- Permutations of a String
 			- Auxiliary Method using temporary array
 			- Interchange Method using swapping
+4. **Matrices**
+     - Diagonal Matrix
+		- C Style  [[code]](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/Matrices/DiagonalMatrixCStyle.cpp)
+		- C++ style
 		
 	 
 	 
