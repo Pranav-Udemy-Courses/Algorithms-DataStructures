@@ -35,7 +35,7 @@ private:
 };
 
 /* ------------------------------------------------------------------------------------
-                   DiagonalMatrix Implementation (DiagonalMatrix.hxx)
+                   DiagonalMatrix Implementation (DiagonalMatrix.cxx)
 ------------------------------------------------------------------------------------ */
 #include "DiagonalMatrix.hxx"
 
