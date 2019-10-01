@@ -3,9 +3,9 @@
 ## Here is the list of topics:
 
 1. **Recursion**
-     - [Basic Recursion](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/Recursion/RecursionExample.cpp)
+     - Basic Recursion [code](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/Recursion/RecursionExample.cpp)
 	 - Types of Recursion :
-	 	- [Head Recursion](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/Recursion/RecursionExample.cpp)
+	 	- Head Recursion [code](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/Recursion/RecursionExample.cpp)
 		- [Tail Recursion](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/Recursion/RecursionExample.cpp)
 		- [Indirect Recursion](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/Recursion/IndirectRecursion.cpp)
 		- [Nested Recursion](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/Recursion/NestedRecursion.cpp)
