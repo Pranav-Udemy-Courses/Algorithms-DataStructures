@@ -36,9 +36,9 @@
      - Check if array is sorted, sort the array & rearrange all positive/negative numbers on one side  [[code]](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/ArrayADT/ArraySortedOperations.cpp)
      - Merging two arrays  [[code]](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/ArrayADT/ArrayMerge.cpp)
      - Set Operations on array  [[code]](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/ArrayADT/ArraySetBinaryOperations.cpp)
-     	- Union on sorted/unsorted arrays
-		- Intersection on sorted/unsorted arrays
+		- Union on sorted/unsorted arrays
 		- Difference between two arrays
+		- Intersection on sorted/unsorted arrays
      - Menu driven operations on array  [[code]](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/ArrayADT/ArrayMenudriven.cpp)
      - Converting C program to CPP program  [[code]](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/ArrayADT/ArrayCtoCPP.cpp)
      - Converting C program to CPP program using Templates  [[code]](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/ArrayADT/ArrayADTTemplateCPP.cpp)
