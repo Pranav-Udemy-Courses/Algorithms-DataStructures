@@ -28,7 +28,7 @@ int Get(Matrix m, int i, int j)
 /* Display Elements of Diagonal Matrix */
 void Display(Matrix m)
 {
-    cout << "The Matrim m is as follows :" << endl;
+    cout << "The Matrix m is as follows :" << endl;
     for (int i = 0; i < m.n; ++i)
     {
         for (int j = 0; j < m.n; ++j)
@@ -60,7 +60,7 @@ int main()
 
 /*
 Output
-The Matrim m is as follows :
+The Matrix m is as follows :
 7  0  0  0
 0  9  0  0
 0  0  5  0
