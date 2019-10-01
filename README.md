@@ -60,6 +60,12 @@
 		- Validating if given String is correct or not
 		- Reversing a String
 		- Comparing Strings and Check if the given String is a Palindrome
+		- Finding Duplicates in a String using Hashing
+		- Finding Duplicates in a String using Bitwise Operations
+		- Check if two Strings are Anagram
+		- Permutations of a String
+			- Auxiliary Method using temporary array
+			- Interchange Method using swapping
 		
 	 
 	 
