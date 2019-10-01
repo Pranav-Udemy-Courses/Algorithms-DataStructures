@@ -16,12 +16,12 @@
      - [Finding Factorial of a number using recursion](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/Recursion/FactorialRecursion.cpp)
 	 - [Finding Fibonnaci series using recursion and memoization](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/Recursion/FibonacciRecursion%26Memoization.cpp)
 	 - [Finding Palindrome using recursion](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/Recursion/PalindromeRecursion.cpp)
-	 - Finding nth power of a number x
-	 - Sum of first N numbers using recursion
-	 - Finding Taylors series using recursion
-	 - Finding Taylors series using Horners rule and recursion
-	 - Famous Tower of Hanois problem using recursion
-	 - Finding nCr using recursion
+	 - [Finding nth power of a number x](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/Recursion/PowerRecursion.cpp)
+	 - [Sum of first N numbers using recursion](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/Recursion/SumOfFirstNNumbersRecursion.cpp)
+	 - [Finding Taylors series using recursion](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/Recursion/TaylorsRecursion.cpp)
+	 - [Finding Taylors series using Horners rule and recursion](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/Recursion/TaylorsHornerRecursion.cpp)
+	 - [Famous Tower of Hanois problem using recursion](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/Recursion/TowerOfHanoi.cpp)
+	 - [Finding nCr using recursion](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/Recursion/nCrUsingRecursion.cpp)
 2. **Array as ADT**
      - Creating array as ADT on Stack
      - Creating array as ADT on Heap
