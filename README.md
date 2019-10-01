@@ -69,7 +69,7 @@
 4. **Matrices**
      - Diagonal Matrix
 		- C Style  [[code]](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/Matrices/DiagonalMatrixCStyle.cpp)
-		- C++ style
+		- C++ style [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Matrices/DiagonalMatrixC%2B%2BStyle.cpp)
 		
 	 
 	 
