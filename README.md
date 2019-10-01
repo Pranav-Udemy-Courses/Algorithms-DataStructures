@@ -23,25 +23,25 @@
 	 - Famous Tower of Hanois problem using recursion  [[code]](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/Recursion/TowerOfHanoi.cpp)
 	 - Finding nCr using recursion  [[code]](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/Recursion/nCrUsingRecursion.cpp)
 2. **Array as ADT**
-     - Creating array as ADT on Stack
-     - Creating array as ADT on Heap
-     - Insert/Append operation in array
-     - Delete operation in array
-     - Linear search operation on array
-     - Binary search operation on array
-     - Get(), Set(), Avg(), Max() functions on array
-     - Reversing an array
+     - Creating array as ADT on Stack  [[code]](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/ArrayADT/ArrayADTStack.cpp)
+     - Creating array as ADT on Heap  [[code]](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/ArrayADT/ArrayADTHeap.cpp)
+     - Insert/Append operation in array  [[code]](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/ArrayADT/ArrayADTInsertAppend.cpp)
+     - Delete operation in array  [[code]](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/ArrayADT/ArrayADTDelete.cpp)
+     - Linear search operation on array  [[code]](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/ArrayADT/ArrayLinearSearch.cpp)
+     - Binary search operation on array  [[code]](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/ArrayADT/ArrayBinarySearch.cpp)
+     - Get(), Set(), Avg(), Max() functions on array  [[code]](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/ArrayADT/ArrayGetSetOperations.cpp)
+     - Reversing an array  [[code]] (https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/ArrayADT/ArrayReverse.cpp)
      	- Auxiliary method : Creating a temporary array and copying the elements to and from it
 		- Interchange method : Swapping first and last element and so on
-     - Check if array is sorted, sort the array & rearrange all positive/negative numbers on one side
-     - Merging two arrays
-     - Set Operations on array
+     - Check if array is sorted, sort the array & rearrange all positive/negative numbers on one side  [[code]](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/ArrayADT/ArraySortedOperations.cpp)
+     - Merging two arrays  [[code]](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/ArrayADT/ArrayMerge.cpp)
+     - Set Operations on array  [[code]](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/ArrayADT/ArraySetBinaryOperations.cpp)
      	- Union on sorted/unsorted arrays
 		- Intersection on sorted/unsorted arrays
 		- Difference between two arrays
-     - Menu driven operations on array
-     - Converting C program to CPP program
-     - Converting C program to CPP program using Templates
+     - Menu driven operations on array  [[code]](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/ArrayADT/ArrayMenudriven.cpp)
+     - Converting C program to CPP program  [[code]](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/ArrayADT/ArrayCtoCPP.cpp)
+     - Converting C program to CPP program using Templates  [[code]](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/ArrayADT/ArrayADTTemplateCPP.cpp)
      - Student Challenge
      	- Finding single missing element in an array
 		- Finding multiple missing elements in an array
