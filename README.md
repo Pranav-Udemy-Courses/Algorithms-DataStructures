@@ -31,7 +31,7 @@
      - Binary search operation on array  [[code]](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/ArrayADT/ArrayBinarySearch.cpp)
      - Get(), Set(), Avg(), Max() functions on array  [[code]](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/ArrayADT/ArrayGetSetOperations.cpp)
      - Reversing an array  [[code]](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/ArrayADT/ArrayReverse.cpp)
-     	- Auxiliary method : Creating a temporary array and copying the elements to and from it
+		- Auxiliary method : Creating a temporary array and copying the elements to and from it
 		- Interchange method : Swapping first and last element and so on
      - Check if array is sorted, sort the array & rearrange all positive/negative numbers on one side  [[code]](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/ArrayADT/ArraySortedOperations.cpp)
      - Merging two arrays  [[code]](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/ArrayADT/ArrayMerge.cpp)
