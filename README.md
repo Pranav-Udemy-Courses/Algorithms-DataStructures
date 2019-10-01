@@ -5,8 +5,8 @@
 1. **Recursion**
      - [Basic Recursion](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/Recursion/RecursionExample.cpp)
 	 - Types of Recursion :
-	 	- Head Recursion
-		- Tail Recursion
+	 	- [Head Recursion](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/Recursion/RecursionExample.cpp)
+		- [Tail Recursion](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/Recursion/RecursionExample.cpp)
 		- Indirect Recursion
 		- Nested Recursion
 		- Permutaion Recursion
