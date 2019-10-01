@@ -43,7 +43,7 @@
      - Converting C program to CPP program  [[code]](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/ArrayADT/ArrayCtoCPP.cpp)
      - Converting C program to CPP program using Templates  [[code]](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/ArrayADT/ArrayADTTemplateCPP.cpp)
      - Student Challenge
-     	- Finding single missing element in an array
+		- Finding single missing element in an array  [[code]](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/ArrayADT/ArraySCFindMultipleMissingElement.cpp)
 		- Finding multiple missing elements in an array  [[code]](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/ArrayADT/ArraySCFindMultipleMissingElement.cpp)
 		- Finding multiple missing elements in an array using Hashing  [[code]](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/ArrayADT/ArraySCFindMultipleMissingElementHashing.cpp)
 		- Finding duplicate elements and count of them in a sorted array [[code]](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/ArrayADT/ArraySCDuplicateElementsSorted.cpp) 
