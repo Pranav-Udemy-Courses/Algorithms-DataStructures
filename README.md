@@ -3,15 +3,15 @@
 ## Here is the list of topics:
 
 1. **Recursion**
-     - Basic Recursion [[link]](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/Recursion/RecursionExample.cpp)
+     - Basic Recursion [[code]](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/Recursion/RecursionExample.cpp)
 	 - Types of Recursion :
-	 	- Head Recursion [code](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/Recursion/RecursionExample.cpp)
-		- [Tail Recursion](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/Recursion/RecursionExample.cpp)
-		- [Indirect Recursion](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/Recursion/IndirectRecursion.cpp)
-		- [Nested Recursion](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/Recursion/NestedRecursion.cpp)
-		- [Permutation Recursion](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/Recursion/PermutationRecursion.cpp)
-		- [Subset Recursion](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/Recursion/SubsetRecursion.cpp)
-		- [Tree Recursion](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/Recursion/TreeRecursion.cpp)
+		- Head Recursion [[code]](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/Recursion/RecursionExample.cpp)
+        - Tail Recursion [[code]](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/Recursion/RecursionExample.cpp)
+		- Indirect Recursion[[code]](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/Recursion/IndirectRecursion.cpp)
+		- Nested Recursion[[code]](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/Recursion/NestedRecursion.cpp)
+		- Permutation Recursion[[code]](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/Recursion/PermutationRecursion.cpp)
+		- Subset Recursion[[code]](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/Recursion/SubsetRecursion.cpp)
+		- Tree Recursion[[code]](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/Recursion/TreeRecursion.cpp)
 	 - [Use of static and global variables in case of recursion](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/Recursion/Static%26GlobalVariablesInRecursion.cpp)
      - [Finding Factorial of a number using recursion](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/Recursion/FactorialRecursion.cpp)
 	 - [Finding Fibonnaci series using recursion and memoization](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/Recursion/FibonacciRecursion%26Memoization.cpp)
