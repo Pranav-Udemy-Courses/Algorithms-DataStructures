@@ -89,8 +89,8 @@
 			- C Style  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Matrices/SymmetricRowMajorLowerColumnMajorUpperCStyle.cpp)
 			- C++ Style  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Matrices/SymmetricRowMajorLowerColumnMajorUpperC%2B%2BStyle.cpp)
 	- Tri-Band Matrix
-		-C Style  [[code](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Matrices/TriBandMatrixCStyle.cpp)
-		-C++ Style  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Matrices/TriBandMatrixC%2B%2BStyle.cpp)
+	   - C Style  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Matrices/TriBandMatrixCStyle.cpp)
+	   - C++ Style  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Matrices/TriBandMatrixC%2B%2BStyle.cpp)
      
 		
 	 
