@@ -91,6 +91,9 @@
 	- Tri-Band Matrix
 	   - C Style  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Matrices/TriBandMatrixCStyle.cpp)
 	   - C++ Style  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Matrices/TriBandMatrixC%2B%2BStyle.cpp)
+	- Toeplitz Matrix
+	  - C Style  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Matrices/ToeplitzMatrixCStyle.cpp)
+	  - C++ Style  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Matrices/ToeplitzMatrixC%2B%2BStyle.cpp)
      
 		
 	 
