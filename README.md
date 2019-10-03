@@ -98,6 +98,8 @@
 	- Creating a Sparse Matrix  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/SparseMatrix/CreateSparseMatrixCStyle.cpp)
 	- Adding Sparse Matrices  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/SparseMatrix/AddingSparseMatricesCStyle.cpp)
 	- Sparse Matrix Implementation using C++ Classes and Important Concepts  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/SparseMatrix/SparseMatrixImplementationC%2B%2BStyle.cpp)
+6. **Polynomials**
+	- Representation, Creation and Addition C style  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Polynomials/PolynomialCStyle.cpp)
      
 		
 	 
