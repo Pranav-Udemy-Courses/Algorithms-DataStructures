@@ -70,10 +70,7 @@
      - Diagonal Matrix
 		- C Style  [[code]](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/Matrices/DiagonalMatrixCStyle.cpp)
 		- C++ Style [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Matrices/DiagonalMatrixC%2B%2BStyle.cpp)
-     - LowerTriangular Matrix
-	 	- Row Major Strategy
-			- C Style [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Matrices/LowerTriangularRowMajorCStyle.cpp)
-			- C++ Style  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Matrices/LowerTriangularRowMajorC%2B%2BStyle.cpp)
+     - LowerTriangular Matrix	 	
 		- Column Major Strategy
 			- C Style  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Matrices/LowerTriangularColumnMajorCStyle.cpp)
 			- C++ Style  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Matrices/LowerTriangularColumnMajorC%2B%2BStyle.cpp)
