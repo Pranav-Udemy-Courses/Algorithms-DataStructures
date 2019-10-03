@@ -77,6 +77,23 @@
 		- Column Major Strategy
 			- C Style  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Matrices/LowerTriangularColumnMajorCStyle.cpp)
 			- C++ Style  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Matrices/LowerTriangularColumnMajorC%2B%2BStyle.cpp)
+	- Upper Triangular Matrix
+		- Row Major Strategy
+			- C Style  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Matrices/UpperTriangularRowMajorCStyle.cpp)
+			- C++ Style  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Matrices/UpperTriangularRowMajorC%2B%2BStyle.cpp)
+		- Column Major Strategy
+			- C Style  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Matrices/UpperTriangularColumnMajorCStyle.cpp)
+			- C++ Style  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Matrices/UpperTriangularColumnMajorC%2B%2BStyle.cpp)
+	- Symmetric Matrix
+		- Row Major Lower and Column Major Upper
+			- C Style  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Matrices/SymmetricRowMajorLowerColumnMajorUpperCStyle.cpp)
+			- C++ Style  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Matrices/SymmetricRowMajorLowerColumnMajorUpperC%2B%2BStyle.cpp)
+	- Tri-Band Matrix
+	   - C Style  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Matrices/TriBandMatrixCStyle.cpp)
+	   - C++ Style  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Matrices/TriBandMatrixC%2B%2BStyle.cpp)
+	- Toeplitz Matrix
+	  - C Style  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Matrices/ToeplitzMatrixCStyle.cpp)
+	  - C++ Style  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Matrices/ToeplitzMatrixC%2B%2BStyle.cpp)
      
 		
 	 
