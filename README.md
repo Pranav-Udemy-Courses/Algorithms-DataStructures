@@ -94,6 +94,8 @@
 	- Toeplitz Matrix
 	  - C Style  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Matrices/ToeplitzMatrixCStyle.cpp)
 	  - C++ Style  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Matrices/ToeplitzMatrixC%2B%2BStyle.cpp)
+5. **Sparse Matrix**
+	- Creating a Sparse Matrix  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/SparseMatrix/CreateSparseMatrix.cpp)
      
 		
 	 
