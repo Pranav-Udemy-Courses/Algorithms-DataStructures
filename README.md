@@ -100,7 +100,7 @@
 	- Sparse Matrix Implementation using C++ Classes and Important Concepts  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/SparseMatrix/SparseMatrixImplementationC%2B%2BStyle.cpp)
 6. **Polynomials**
 	- Representation, Creation, Evaluation and Addition C style  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Polynomials/PolynomialCStyle.cpp)
-    - Representation, Creation, Evaluation and Addition using C++ Style with new concepts  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Polynomials/PolynomialC%2B%2BStyle.cpp)
+    - Representation, Creation, Evaluation and Addition using C++ Style with overloading concepts  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Polynomials/PolynomialC%2B%2BStyle.cpp)
 		
 	 
 	 
