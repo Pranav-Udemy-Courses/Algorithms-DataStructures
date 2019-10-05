@@ -101,6 +101,12 @@
 6. **Polynomials**
 	- Representation, Creation, Evaluation and Addition C style  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Polynomials/PolynomialCStyle.cpp)
     - Representation, Creation, Evaluation and Addition using C++ Style with overloading concepts  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Polynomials/PolynomialC%2B%2BStyle.cpp)
+7. **Linked Lists**
+	- Creating and Displaying a Linked list  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/LinkedList/CreateDisplayLinkedListCStyle.cpp)
+	- Displaying Linked list in Forward and Reverse order using Recursion  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/LinkedList/DisplayFwdRvrUsingRecursion.cpp)
+	- Finding number of nodes and Sum of all elements in a linked list  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/LinkedList/FindCountAndSum.cpp)
+	- Finding maximum element of linked list  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/LinkedList/FindMaxElement.cpp)
+	- Linear Search in linked list along with Move to Head Strategy  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/LinkedList/LinearSearch.cpp)
 		
 	 
 	 
