@@ -109,6 +109,7 @@
 	- Linear Search in linked list along with Move to Head Strategy  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/LinkedList/LinearSearch.cpp)
 	- Inserting a Node in a linked list at given index  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/LinkedList/InsertingNodeInLinkedList.cpp)
 	- Inserting a Node in a Sorted Linked List  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/LinkedList/InsertingNodeInSortedLinkedList.cpp)
+	- Deleting a Node at given Index or for given Element  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/LinkedList/DeletingNodeFromLinkedList.cpp)
 		
 	 
 	 
