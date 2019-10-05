@@ -107,6 +107,7 @@
 	- Finding number of nodes and Sum of all elements in a linked list  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/LinkedList/FindCountAndSum.cpp)
 	- Finding maximum element of linked list  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/LinkedList/FindMaxElement.cpp)
 	- Linear Search in linked list along with Move to Head Strategy  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/LinkedList/LinearSearch.cpp)
+	- Inserting a Node in a linked list at given index  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/LinkedList/InsertingNodeInLinkedList.cpp)
 		
 	 
 	 
