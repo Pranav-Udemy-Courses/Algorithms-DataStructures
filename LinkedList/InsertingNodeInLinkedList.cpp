@@ -53,6 +53,21 @@ Node_s* InsertAtBeginning(Node_s* temp, int x)
 	return head;
 }
 
+/* Insert a node at the end of Linked List */
+Node_s* InsertAtEnd(Node_s* temp, int x)
+{
+	if (temp == nullptr)
+		return InsertAtBeginning(temp, x);
+
+	while (temp->next != nullptr)
+		temp = temp->next;
+	Node_s* newNode = new Node_s;
+	newNode->data = x;
+	newNode->next = temp->next;
+	temp->next = newNode;
+	return head;
+}
+
 /* Insert node at any given index */
 Node_s* InsertAtIndex(Node_s* temp, int x, int index)
 {
@@ -82,15 +97,21 @@ int main()
 	cout << "Display after inserting node at beginning : ";
 	InsertAtBeginning(head, 6);
 	Display();
+	cout << endl;
+	cout << "Display after inserting node at end : ";
+	InsertAtEnd(head, 15);
+	Display();
 	system("pause");
 	return 0;
 }
 
 /*
 Output
-Display original linked list : | 2 | 00C0DA40 | -------> | 11 | 00C0DAB0 | -------> | 5 | 00C0DD50 | -------> | 7 | 00C0DED8 | -------> | 9 | 00000000 | ------->
+Display original linked list : | 2 | 0015E098 | -------> | 11 | 0015E0D0 | -------> | 5 | 0015DF80 | -------> | 7 | 0015DA08 | -------> | 9 | 00000000 | ------->
 
-Display after inserting at 4th index i.e. after 7 : | 2 | 00C0DA40 | -------> | 11 | 00C0DAB0 | -------> | 5 | 00C0DD50 | -------> | 7 | 00C0E060 | -------> | 8 | 00C0DED8 | -------> | 9 | 00000000 | ------->
+Display after inserting at 4th index i.e. after 7 : | 2 | 0015E098 | -------> | 11 | 0015E0D0 | -------> | 5 | 0015DF80 | -------> | 7 | 0015DB58 | -------> | 8 | 0015DA08 | -------> | 9 | 00000000 | ------->
 
-Display after inserting node at beginning : | 6 | 00C0DEA0 | -------> | 2 | 00C0DA40 | -------> | 11 | 00C0DAB0 | -------> | 5 | 00C0DD50 | -------> | 7 | 00C0E060 | -------> | 8 | 00C0DED8 | -------> | 9 | 00000000 | ------->
+Display after inserting node at beginning : | 6 | 0015DA40 | -------> | 2 | 0015E098 | -------> | 11 | 0015E0D0 | -------> | 5 | 0015DF80 | -------> | 7 | 0015DB58 | -------> | 8 | 0015DA08 | -------> | 9 | 00000000 | ------->
+
+Display after inserting node at end : | 6 | 0015DA40 | -------> | 2 | 0015E098 | -------> | 11 | 0015E0D0 | -------> | 5 | 0015DF80 | -------> | 7 | 0015DB58 | -------> | 8 | 0015DA08 | -------> | 9 | 0015DC38 | -------> | 15 | 00000000 | ------->
 */
