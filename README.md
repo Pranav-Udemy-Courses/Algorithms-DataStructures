@@ -116,6 +116,7 @@
 	- Merging Two Sorted Linked Lists  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/LinkedList/MergingSortedLinkedLIists.cpp)
 	- Concatenating Two Linked Lists  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/LinkedList/ConcatenateLinkedLists.cpp)
 	- Check if Linked List contains any Loop or not  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/LinkedList/CheckIfLoopLinkedList.cpp)
+	- Class Implementation of Linked List C++ Style  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/LinkedList/LinkedListC%2B%2BClass.cpp)
 		
 	 
 	 
