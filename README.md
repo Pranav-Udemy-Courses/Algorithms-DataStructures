@@ -113,6 +113,7 @@
 	- Check if the given Linked List is Sorted or not  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/LinkedList/CheckIfLinkedListIsSorted.cpp)
 	- Removing Duplicates from a Sorted Linked List  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/LinkedList/RemovingDuplicatesFromSortedLinkedList.cpp)
 	- Reversing a Linked List Iteratively and Recursively  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/LinkedList/ReversingLinkedList.cpp)
+	- Merging Two Sorted Linked Lists  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/LinkedList/MergingSortedLinkedLIists.cpp)
 		
 	 
 	 
