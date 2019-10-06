@@ -1,5 +1,5 @@
 /* ------------------------------------------------------------------------------------
-					ToeplitzMatrix Header (ToeplitzMatrix.hxx)
+			ToeplitzMatrix Header (ToeplitzMatrix.hxx)
 ------------------------------------------------------------------------------------ */
 #pragma once
 #include <iostream>
@@ -35,7 +35,7 @@ private:
 };
 
 /* ------------------------------------------------------------------------------------
-				   ToeplitzMatrix Implementation (ToeplitzMatrix.cxx)
+		   ToeplitzMatrix Implementation (ToeplitzMatrix.cxx)
 ------------------------------------------------------------------------------------ */
 #include "ToeplitzMatrix.hxx"
 
@@ -94,7 +94,7 @@ void ToeplitzMatrix::Display()
 }
 
 /* ------------------------------------------------------------------------------------
-							 Main CPP File (Source.cpp)
+				Main CPP File (Source.cpp)
 ------------------------------------------------------------------------------------ */
 #include "ToeplitzMatrix.hxx"
 #include <iostream>

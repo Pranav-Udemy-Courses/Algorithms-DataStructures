@@ -1,5 +1,5 @@
 /* ------------------------------------------------------------------------------------
-					TriBandMatrix Header (TriBandMatrix.hxx)
+			TriBandMatrix Header (TriBandMatrix.hxx)
 ------------------------------------------------------------------------------------ */
 #pragma once
 #include <iostream>
@@ -35,7 +35,7 @@ private:
 };
 
 /* ------------------------------------------------------------------------------------
-				   TriBandMatrix Implementation (TriBandMatrix.cxx)
+		  TriBandMatrix Implementation (TriBandMatrix.cxx)
 ------------------------------------------------------------------------------------ */
 #include "TriBandMatrix.hxx"
 
@@ -104,7 +104,7 @@ void TriBandMatrix::Display()
 }
 
 /* ------------------------------------------------------------------------------------
-							 Main CPP File (Source.cpp)
+				Main CPP File (Source.cpp)
 ------------------------------------------------------------------------------------ */
 #include "TriBandMatrix.hxx"
 #include <iostream>

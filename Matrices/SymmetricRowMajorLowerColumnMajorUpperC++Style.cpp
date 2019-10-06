@@ -1,5 +1,5 @@
 /* ------------------------------------------------------------------------------------
-					SymmetricMatrix Header (SymmetricMatrix.hxx)
+			SymmetricMatrix Header (SymmetricMatrix.hxx)
 ------------------------------------------------------------------------------------ */
 #pragma once
 #include <iostream>
@@ -35,7 +35,7 @@ private:
 };
 
 /* ------------------------------------------------------------------------------------
-				   SymmetricMatrix Implementation (SymmetricMatrix.cxx)
+		SymmetricMatrix Implementation (SymmetricMatrix.cxx)
 ------------------------------------------------------------------------------------ */
 #include "SymmetricMatrix.hxx"
 
@@ -91,7 +91,7 @@ void SymmetricMatrix::Display()
 }
 
 /* ------------------------------------------------------------------------------------
-							 Main CPP File (Source.cpp)
+				Main CPP File (Source.cpp)
 ------------------------------------------------------------------------------------ */
 #include "SymmetricMatrix.hxx"
 #include <iostream>

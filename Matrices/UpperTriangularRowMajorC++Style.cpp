@@ -1,5 +1,5 @@
 /* ------------------------------------------------------------------------------------
-					UpperTriangular Header (UpperTriangular.hxx)
+			UpperTriangular Header (UpperTriangular.hxx)
 ------------------------------------------------------------------------------------ */
 #pragma once
 #include <iostream>
@@ -35,7 +35,7 @@ private:
 };
 
 /* ------------------------------------------------------------------------------------
-				   UpperTriangular Implementation (UpperTriangular.cxx)
+		UpperTriangular Implementation (UpperTriangular.cxx)
 ------------------------------------------------------------------------------------ */
 #include "UpperTriangular.hxx"
 
@@ -91,7 +91,7 @@ void UpperTriangular::Display()
 }
 
 /* ------------------------------------------------------------------------------------
-							 Main CPP File (Source.cpp)
+			    Main CPP File (Source.cpp)
 ------------------------------------------------------------------------------------ */
 #include "UpperTriangular.hxx"
 #include <iostream>
