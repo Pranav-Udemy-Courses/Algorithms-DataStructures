@@ -120,7 +120,8 @@
 		- Class Implementation of Linked List C++ Style  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/LinkedList/LinkedListC%2B%2BClass.cpp)
 	- Circular Linked Lists
 		- Creating and Displaying a Circular Linked List  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/LinkedList/CreateDisplayCircularLinkedList.cpp)
-		- Inserting Node at given Index in a Circular Linked List  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/LinkedList/InsertingNodeInCircularLinkedList.cpp)
+		- Inserting a Node at given Index in a Circular Linked List  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/LinkedList/InsertingNodeInCircularLinkedList.cpp)
+		- Deleting a Node from given Index in a Circular Linked List  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/LinkedList/DeletingNodeFromCircularLinkedList.cpp) 
 		
 	 
 	 
