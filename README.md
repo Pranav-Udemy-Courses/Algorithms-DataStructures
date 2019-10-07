@@ -122,6 +122,10 @@
 		- Creating and Displaying a Circular Linked List  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/LinkedList/CreateDisplayCircularLinkedList.cpp)
 		- Inserting a Node at given Index in a Circular Linked List  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/LinkedList/InsertingNodeInCircularLinkedList.cpp)
 		- Deleting a Node from given Index in a Circular Linked List  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/LinkedList/DeletingNodeFromCircularLinkedList.cpp) 
+	- Doubly Linked Lists
+		- Creating and Displaying Doubly Linked List  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/LinkedList/CreateDisplayDoublyLinkedList.cpp)
+		- Inserting a Node at given Index in a Doubly Linked List  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/LinkedList/InsertingNodeInDoublyLinkedList.cpp)
+		- Deleting a Node from given Index in a Doubly Linked List  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/LinkedList/DeletingNodeFromDoublyLinkedList.cpp)
 		
 	 
 	 
