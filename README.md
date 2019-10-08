@@ -127,6 +127,8 @@
 		- Inserting a Node at given Index in a Doubly Linked List  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/LinkedList/InsertingNodeInDoublyLinkedList.cpp)
 		- Deleting a Node from given Index in a Doubly Linked List  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/LinkedList/DeletingNodeFromDoublyLinkedList.cpp)
 		- Reversing a Doubly Linked List  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/LinkedList/ReversingDoublyLinkedList.cpp)
+	- Doubly Circular Linked Lists
+		- Creating and Displaying Doubly Circular Linked List  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/LinkedList/CreateDisplayDoublyCircularLinkedList.cpp)
 		
 	 
 	 
