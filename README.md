@@ -129,6 +129,7 @@
 		- Reversing a Doubly Linked List  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/LinkedList/ReversingDoublyLinkedList.cpp)
 	- Doubly Circular Linked Lists
 		- Creating and Displaying Doubly Circular Linked List  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/LinkedList/CreateDisplayDoublyCircularLinkedList.cpp)
+		- Inserting a Node in a Doubly Circular Linked List at any given Index  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/LinkedList/InsertingNodeInDoublyCircularLinkedList.cpp)
 		
 	 
 	 
