@@ -132,6 +132,8 @@
 		- Inserting a Node in a Doubly Circular Linked List at any given Index  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/LinkedList/InsertingNodeInDoublyCircularLinkedList.cpp)
 		- Deleting a Node from given Index in a Doubly Circular Linked List  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/LinkedList/DeletingNodeFromDoublyCircularLinkedList.cpp)
 		- Reversing a Doubly Circular Linked List  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/LinkedList/ReversingDoublyCircularLinkedList.cpp)
+	- Student Challenge
+		- Finding middle Element of Linked List  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/LinkedList/LinkedListSCMiddleElement.cpp)
 		
 	 
 	 
