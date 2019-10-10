@@ -103,6 +103,7 @@
 6. **Polynomials**
 	- Representation, Creation, Evaluation and Addition C style  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Polynomials/PolynomialCStyle.cpp)
     - Representation, Creation, Evaluation and Addition using C++ Style with overloading concepts  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Polynomials/PolynomialC%2B%2BStyle.cpp)
+	- Representation, Creation, Evaluation and Addition using Linked Lists  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Polynomials/PolynomialUsingLinkedList.cpp)
 7. **Linked Lists**
 	- Linear Linked Lists
 		- Creating and Displaying a Linked list  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/LinkedList/CreateDisplayLinkedListCStyle.cpp)
