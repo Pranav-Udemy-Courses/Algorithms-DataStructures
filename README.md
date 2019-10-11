@@ -140,5 +140,6 @@
 8. **Stack**
 	- Implementation of Stack using Arrays  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Stack/StackUsingArray.cpp)
 	- Implementation of Stack using Linked List C Style  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Stack/StackUsingLinkedListCStyle.cpp)
+	- Implementation of Stack using Linked List C++ Style  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Stack/StackUsingLinkedListC%2B%2BStyle.cpp)
 	 
 	 
