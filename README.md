@@ -139,5 +139,6 @@
 		- Finding middle Element of Linked List  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/LinkedList/LinkedListSCMiddleElement.cpp)
 8. **Stack**
 	- Implementation of Stack using Arrays  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Stack/StackUsingArray.cpp)
+	- Implementation of Stack using Linked List C Style  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Stack/StackUsingLinkedListCStyle.cpp)
 	 
 	 
