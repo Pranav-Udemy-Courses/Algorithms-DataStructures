@@ -3,7 +3,7 @@
 using namespace std;
 
 /*-------------------------------------
-		 Structure of Stack
+          Structure of Stack
 -------------------------------------*/
 typedef struct Stack_t
 {
@@ -13,7 +13,7 @@ typedef struct Stack_t
 }Stack_s;
 
 /*-------------------------------------
-		   Create Stack
+	  Create Stack
 -------------------------------------*/
 void Create(Stack_s* st)
 {
@@ -24,7 +24,7 @@ void Create(Stack_s* st)
 }
 
 /*-------------------------------------
-   Determine if Stack is Empty
+    Determine if Stack is Empty
 -------------------------------------*/
 bool IsEmpty(Stack_s st)
 {
@@ -34,7 +34,7 @@ bool IsEmpty(Stack_s st)
 }
 
 /*-------------------------------------
-   Determine if Stack is Full
+    Determine if Stack is Full
 -------------------------------------*/
 bool IsFull(Stack_s st)
 {
@@ -81,7 +81,7 @@ int Pop(Stack_s* st)
 }
 
 /*-------------------------------------
-   Top Element of a Stack
+      Top Element of a Stack
 -------------------------------------*/
 int StackTop(Stack_s st)
 {
@@ -104,7 +104,7 @@ void Display(Stack_s st)
 }
 
 /*-------------------------------------
-			Main Method
+	   Main Method
 -------------------------------------*/
 int main()
 {
