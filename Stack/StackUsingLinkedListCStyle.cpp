@@ -3,7 +3,7 @@
 using namespace std;
 
 /*-------------------------------------
-		 Structure of Stack
+	Structure of Stack
 -------------------------------------*/
 typedef struct Stack_t
 {
@@ -36,7 +36,7 @@ bool IsFull()
 }
 
 /*-------------------------------------
-	 Determine Length of Stack
+	Determine Length of Stack
 -------------------------------------*/
 int Length(Stack_s* st)
 {
@@ -116,7 +116,7 @@ void Display(Stack_s* st)
 }
 
 /*-------------------------------------
-			Main Method
+	   Main Method
 -------------------------------------*/
 int main()
 {
