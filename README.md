@@ -1,3 +1,5 @@
+[View On Web](https://shahpranav1094-courses.github.io/Algorithms-DataStructures/)
+
 # Practice Examples on DataStructures and Algorithms
 
 ## Here is the list of topics:
