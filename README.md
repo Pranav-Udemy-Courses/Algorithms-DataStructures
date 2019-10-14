@@ -146,5 +146,6 @@
 	- Parenthesis Matching Problem using Linked List  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Stack/ParenthesisBalanceUsingLinkedList.cpp)
 	- Problem of Balancing All Types of Parenthesis using Linked List  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Stack/AllTypesBalancedUsingLinkedList.cpp)
 	- Infix to Postfix Conversion Using Arrays  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Stack/InfixToPostfixUsingArray.cpp)
+	- Infix to Postfix Conversion considering Associativity and Parenthesis  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Stack/InfixToPostfixConsideringAssocAndPreced.cpp)
 	 
 	 
