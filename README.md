@@ -145,5 +145,6 @@
 	- Implementation of Stack using Linked List C++ Style  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Stack/StackUsingLinkedListC%2B%2BStyle.cpp)
 	- Parenthesis Matching Problem using Linked List  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Stack/ParenthesisBalanceUsingLinkedList.cpp)
 	- Problem of Balancing All Types of Parenthesis using Linked List  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Stack/AllTypesBalancedUsingLinkedList.cpp)
+	- Infix to Postfix Conversion Using Arrays  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Stack/InfixToPostfixUsingArray.cpp)
 	 
 	 
