@@ -151,5 +151,6 @@
 9. **Queues**
 	- Implementation of Queues using Arrays C style  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Queue/QueuesUsingArrayCStyle.cpp)
 	- Implementation of Queues using Arrays C++ Style  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Queue/QueueUsingArrayC%2B%2BStyle.cpp)
+	- Implementation of Circular Queues using Arrays C++ Style  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Queue/CircularQueueUsingArrayC%2B%2BStyle.cpp)
 	 
 	 
