@@ -102,6 +102,8 @@ int Queue::Dequeue()
 	int x = t->data;
 	delete t;
 	t = nullptr;
+	if (head == nullptr)
+		tail = nullptr;
 	return x;
 }
 
