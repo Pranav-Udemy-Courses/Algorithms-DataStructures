@@ -148,5 +148,7 @@
 	- Infix to Postfix Conversion Using Arrays  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Stack/InfixToPostfixUsingArray.cpp)
 	- Infix to Postfix Conversion considering Associativity and Parenthesis  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Stack/InfixToPostfixConsideringAssocAndPreced.cpp)
 	- Evaluation of Postfix Expression using Arrays  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Stack/EvaluatePostfixExpression.cpp)
+9. **Queues**
+	- Implementation of Queues using Arrays C style  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Queue/QueuesUsingArrayCStyle.cpp)
 	 
 	 
