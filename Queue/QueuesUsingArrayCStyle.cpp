@@ -3,7 +3,7 @@
 using namespace std;
 
 /*-------------------------------------
-		  Structure of Queue
+	Structure of Queue
 -------------------------------------*/
 typedef struct Queue_t
 {
@@ -14,7 +14,7 @@ typedef struct Queue_t
 }Queue_s;
 
 /*-------------------------------------
-			Create Queue
+	    Create Queue
 -------------------------------------*/
 Queue_s Create()
 {
@@ -27,7 +27,7 @@ Queue_s Create()
 }
 
 /*-------------------------------------
-	Determine if Queue is Empty
+    Determine if Queue is Empty
 -------------------------------------*/
 bool IsEmpty(Queue_s q)
 {
@@ -37,7 +37,7 @@ bool IsEmpty(Queue_s q)
 }
 
 /*-------------------------------------
-	Determine if Queue is Full
+     Determine if Queue is Full
 -------------------------------------*/
 bool IsFull(Queue_s q)
 {
@@ -47,7 +47,7 @@ bool IsFull(Queue_s q)
 }
 
 /*-------------------------------------
-   Add an Element to a Queue
+     Add an Element to a Queue
 -------------------------------------*/
 void Enqueue(Queue_s* q, int x)
 {
