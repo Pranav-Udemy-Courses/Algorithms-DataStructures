@@ -156,4 +156,5 @@
 	- Student Challenge
 		- Double Ended Queue DEQUEUE using Linked List C++ Style  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Queue/DoubleEndedQueueUsingLinkedListC%2B%2BStyle.cpp)
 		- Limited Priority Queue using Linked List C++ Style  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Queue/LimitedPriorityUsingLinkedListC%2B%2BStyle.cpp)
+		- Element Priority Queue using Linked List C++ Style  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Queue/ElementPriorityUsingLinkedListC%2B%2BStyle.cpp)
 	 
