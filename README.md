@@ -163,4 +163,5 @@
 	- PreOrder, InOrder and PostOrder Traversal of Trees using Iterative and Recursive approaches C Style  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Trees/IterativeAndRecursiveTraversalInBinaryTreeCStyle.cpp)
 	- Level Order Traversal in Binary Tree C Style  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Trees/LevelOrderTraversalInBinaryTreeCStyle.cpp)
 	- Count of All Nodes, Nodes with Degree 2, Nodes with Degree 1 and Leaf nodes as well as the Height of Binary Tree C Style  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Trees/HeightAndCountInBinaryTreeCStyle.cpp)
+	- Binary Tree with all functionalities C++ Style  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Trees/BinaryTreeAllFunctionalitiesC%2B%2BStyle.cpp)
 	 
