@@ -164,4 +164,6 @@
 	- Level Order Traversal in Binary Tree C Style  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Trees/LevelOrderTraversalInBinaryTreeCStyle.cpp)
 	- Count of All Nodes, Nodes with Degree 2, Nodes with Degree 1 and Leaf nodes as well as the Height of Binary Tree C Style  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Trees/HeightAndCountInBinaryTreeCStyle.cpp)
 	- Binary Tree with all functionalities using Queue STL C++ Style  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Trees/BinaryTreeAllFunctionalitiesC%2B%2BStyle.cpp)
+11. **Binary Search Trees**
+	- Creating and Searching in a BST C++ Style  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/BST/BSTC%2B%2BStyle.cpp)
 	 
