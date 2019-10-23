@@ -167,4 +167,5 @@
 11. **Binary Search Trees**
 	- Creating and Searching in a BST C++ Style  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/BST/BSTC%2B%2BStyle.cpp)
 	- Deleting a Node from a BST C++ Style  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/BST/DeletingNodeFromBSTC%2B%2BStyle.cpp)
+	- Creating a BST from PreOrder C++ Style  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/BST/CreatingBSTFromPreOrderC%2B%2BStyle.cpp)
 	 
