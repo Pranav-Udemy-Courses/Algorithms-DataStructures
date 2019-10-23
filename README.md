@@ -166,4 +166,5 @@
 	- Binary Tree with all functionalities using Queue STL C++ Style  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Trees/BinaryTreeAllFunctionalitiesC%2B%2BStyle.cpp)
 11. **Binary Search Trees**
 	- Creating and Searching in a BST C++ Style  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/BST/BSTC%2B%2BStyle.cpp)
+	- Deleting a Node from a BST C++ Style  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/BST/DeletingNodeFromBSTC%2B%2BStyle.cpp)
 	 
