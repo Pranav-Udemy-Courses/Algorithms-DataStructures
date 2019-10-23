@@ -30,21 +30,31 @@ public:
     // Insert in Binary Search Tree Recursively
     Node* InsertRec(Node* root, int key);
 
-    // Insert in Binary Search Tree Iteratively
-    Node* InsertItr(Node* root, int key);
-
-    // Display BSTree Using InOrder
-    void InOrder(Node* root);
-
-    // Search a key in Binary Search Tree Iteratively
-    bool SearchItr(Node* root, int key);
+    // Delete a key from Binary Search Tree Recursively
+    Node* DeleteRec(Node* root, int key);
 
     // Search a key in Binary Search Tree Recursively
     bool SearchRec(Node* root, int key);
 
+    // Find Height of Binary Search Tree
+    int HeightRec(Node* root);
+
+    // Display BSTree Using InOrder
+    void InOrder(Node* root);
+
+    // Display BSTree Using PreOrder
+    void PreOrder(Node* root);
+
     // Destructor
     ~BSTree();
 
+
+private:
+    // Get the InOrder Predecessor
+    Node* InOrderPre(Node* p);
+
+    // Get the InOrder Sucessor
+    Node* InOrderSucc(Node* p);
 };
 
 /* ------------------------------------------------------------------------------------
@@ -77,39 +87,40 @@ Node* BSTree::InsertRec(Node* t, int key)
 }
 
 /* ----------------------------------- */
-Node* BSTree::InsertItr(Node* root, int key)
+Node* BSTree::DeleteRec(Node* root, int key)
 {
-    Node* tail = nullptr;
     if (root == nullptr)
+        return nullptr;
+    if (root->left == nullptr && root->right == nullptr)
     {
-        Node* temp = new Node;
-        temp->left = temp->right = nullptr;
-        temp->data = key;
-        return temp;
+        delete root;
+        return nullptr;
     }
 
-    while (root != nullptr)
-    {
-        tail = root;
-        if (key == root->data)
-            return nullptr;
-        else if (key < root->data)
-            root = root->left;
-        else
-            root = root->right;
-    }
-    Node* temp = new Node;
-    temp->left = temp->right = nullptr;
-    temp->data = key;
-    if (key < tail->data)
-        tail->left = temp;
+    if (key < root->data)
+        root->left = DeleteRec(root->left, key);
+    else if (key > root->data)
+        root->right = DeleteRec(root->right, key);
     else
-        tail->right = temp;
-    return temp;
+    {
+        if (HeightRec(root->left) > HeightRec(root->right))
+        {
+            Node* q = InOrderPre(root->left);
+            root->data = q->data;
+            root->left = DeleteRec(root->left, q->data);
+        }
+        else
+        {
+            Node* q = InOrderSucc(root->right);
+            root->data = q->data;
+            root->right = DeleteRec(root->right, q->data);
+        }
+    }
+    return root;
 }
 
 /* ----------------------------------- */
-void BSTree::InOrder(Node * root)
+void BSTree::InOrder(Node* root)
 {
     if (root == nullptr)
         return;
@@ -119,22 +130,13 @@ void BSTree::InOrder(Node * root)
 }
 
 /* ----------------------------------- */
-bool BSTree::SearchItr(Node * root, int key)
+void BSTree::PreOrder(Node * root)
 {
     if (root == nullptr)
-        return false;
-
-    Node * tail = nullptr;
-    while (root != nullptr)
-    {
-        if (root->data == key)
-            return true;
-        else if (key < root->data)
-            root = root->left;
-        else
-            root = root->right;
-    }
-    return false;
+        return;
+    cout << root->data << "   ";
+    PreOrder(root->left);
+    PreOrder(root->right);
 }
 
 /* ----------------------------------- */
@@ -152,8 +154,36 @@ bool BSTree::SearchRec(Node * root, int key)
 }
 
 /* ----------------------------------- */
+int BSTree::HeightRec(Node * root)
+{
+    if (root == nullptr)
+        return 0;
+
+    int x = HeightRec(root->left);
+    int y = HeightRec(root->right);
+
+    return x > y ? x + 1 : y + 1;
+}
+
+/* ----------------------------------- */
 BSTree::~BSTree()
 {
+}
+
+/* ----------------------------------- */
+Node* BSTree::InOrderPre(Node * p)
+{
+    if (p != nullptr && p->right != nullptr)
+        p = p->right;
+    return p;
+}
+
+/* ----------------------------------- */
+Node* BSTree::InOrderSucc(Node * p)
+{
+    if (p != nullptr && p->left != nullptr)
+        p = p->left;
+    return p;
 }
 
 /* ------------------------------------------------------------------------------------
@@ -176,10 +206,16 @@ int main()
     cout << "The Inorder Traversal of Binary Search Tree is : ";
     t.InOrder(root);
     cout << endl << endl;
-    cout << "Is node 4 found using Iterative Search ? " << boolalpha << t.SearchItr(root, 4) << endl << endl;
     cout << "Is node 4 found using Recursive Search ? " << boolalpha << t.SearchRec(root, 4) << endl << endl;
-    cout << "Is node 14 found using Iterative Search ? " << boolalpha << t.SearchItr(root, 14) << endl << endl;
     cout << "Is node 14 found using Recursive Search ? " << boolalpha << t.SearchRec(root, 14) << endl << endl;
+    cout << "Deleting node with value 10" << endl << endl;
+    t.DeleteRec(root, 10);
+    cout << "The Inorder Traversal of Binary Search Tree is : ";
+    t.InOrder(root);
+    cout << endl << endl;
+    cout << "The Preorder Traversal of Binary Search Tree is : ";
+    t.PreOrder(root);
+    cout << endl << endl;
     system("pause");
     return 0;
 }
@@ -189,13 +225,14 @@ Output
 
 The Inorder Traversal of Binary Search Tree is : 1   3   4   7   8   10   12
 
-Is node 4 found using Iterative Search ? true
-
 Is node 4 found using Recursive Search ? true
-
-Is node 14 found using Iterative Search ? false
 
 Is node 14 found using Recursive Search ? false
 
-*/
+Deleting node with value 10
 
+The Inorder Traversal of Binary Search Tree is : 1   3   4   7   8   12
+
+The Preorder Traversal of Binary Search Tree is : 7   3   1   4   12   8
+
+*/
