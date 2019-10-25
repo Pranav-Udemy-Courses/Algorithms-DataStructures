@@ -228,8 +228,8 @@ void AVLTree::PreOrder(Node* p)
 	if (p == nullptr)
 		return;
 	cout << p->data << "   ";
-	InOrder(p->left);
-	InOrder(p->right);
+    PreOrder(p->left);
+    PreOrder(p->right);
 }
 
 /* ----------------------------------- */
