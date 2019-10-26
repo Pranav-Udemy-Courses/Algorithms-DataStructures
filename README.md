@@ -173,4 +173,5 @@
 	- Deleting a Node from AVL Tree C++ Style  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/AVL/DeletingANodeFromAVLTree.cpp)
 13. **Heap**
 	- Creating a Heap and Deleting elements from it to Sort the list C Style  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Heap/HeapSortCStyle.cpp)
+	- Create a Max Heap using Heapify Logic  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Heap/HeapifyCStyle.cpp)
 	 
