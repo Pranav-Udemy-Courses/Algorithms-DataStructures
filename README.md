@@ -174,4 +174,8 @@
 13. **Heap**
 	- Creating a Heap and Deleting elements from it to Sort the list C Style  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Heap/HeapSortCStyle.cpp)
 	- Create a Max Heap using Heapify Logic  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Heap/HeapifyCStyle.cpp)
+14. **Sorting Techniques**
+	- Bubble Sort with Adaptiveness C Style  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Sorting%20Techniques/BubbleSortCStyle.cpp)
+	- Insertion Sort C Style  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Sorting%20Techniques/InsertionSortCStyle.cpp)
+	
 	 
