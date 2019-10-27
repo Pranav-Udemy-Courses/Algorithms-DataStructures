@@ -178,5 +178,6 @@
 	- Bubble Sort with Adaptiveness C Style  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Sorting%20Techniques/BubbleSortCStyle.cpp)
 	- Insertion Sort C Style  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Sorting%20Techniques/InsertionSortCStyle.cpp)
 	- Selection Sort C Style  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Sorting%20Techniques/SelectionSortCStyle.cpp)
+	- Quick Sort C Style  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Sorting%20Techniques/QuickSortCStyle.cpp)
 	
 	 
