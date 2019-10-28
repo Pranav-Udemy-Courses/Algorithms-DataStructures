@@ -179,5 +179,12 @@
 	- Insertion Sort C Style  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Sorting%20Techniques/InsertionSortCStyle.cpp)
 	- Selection Sort C Style  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Sorting%20Techniques/SelectionSortCStyle.cpp)
 	- Quick Sort C Style  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Sorting%20Techniques/QuickSortCStyle.cpp)
+	- Merge Sort
+		- Iterative Method C Style  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Sorting%20Techniques/MergeSortIterativeCStyle.cpp)
+		- Recursive Method C Style  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Sorting%20Techniques/MergeSortRecursiveCStyle.cpp)
+	- Count Sort C Style  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Sorting%20Techniques/CountSortCStyle.cpp)
+	- Bucket/Bin Sort C Style  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Sorting%20Techniques/Bucket-BinSortCStyle.cpp)
+	- Radix Sort C Style  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Sorting%20Techniques/RadixSortCStyle.cpp)
+	- Shell Sort C Style  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Sorting%20Techniques/ShellSortCStyle.cpp)
 	
 	 
