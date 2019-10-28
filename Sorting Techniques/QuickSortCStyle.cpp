@@ -29,7 +29,7 @@ void Swap(int* n1, int* n2)
 /*-------------------------------------
    Sort the elements using Quick Sort
    Complexity : O(log(n)) best case
-				O(n^2) worst case
+		O(n^2) worst case
 -------------------------------------*/
 int Partition(int a[], int l, int h)
 {
