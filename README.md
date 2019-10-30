@@ -186,5 +186,10 @@
 	- Bucket/Bin Sort C Style  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Sorting%20Techniques/Bucket-BinSortCStyle.cpp)
 	- Radix Sort C Style  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Sorting%20Techniques/RadixSortCStyle.cpp)
 	- Shell Sort C Style  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Sorting%20Techniques/ShellSortCStyle.cpp)
+15. **Hashing Techniques**
+	- Chaining Technique C Style  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Hashing/ChainingCStyle.cpp)
+	- Linear Probing Technique C Style  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Hashing/LinearProbingCStyle.cpp)
+	- Quadratic Probing Technique C Style  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Hashing/QuadraticProbingCStyle.cpp)
+	- Double Hashing Technique C Style  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Hashing/DoubleHashingCStyle.cpp)
 	
 	 
