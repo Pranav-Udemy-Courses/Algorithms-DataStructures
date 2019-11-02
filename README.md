@@ -191,5 +191,9 @@
 	- Linear Probing Technique C Style  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Hashing/LinearProbingCStyle.cpp)
 	- Quadratic Probing Technique C Style  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Hashing/QuadraticProbingCStyle.cpp)
 	- Double Hashing Technique C Style  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Hashing/DoubleHashingCStyle.cpp)
+16. **Graphs**
+	- Breadth First Search and Depth First Search implementation in C Style  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Graph/BFSandDFSCStyle.cpp)
+	- Prims Algorithm to find minimum cost spanning tree in C Style  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Graph/PrimsAlgorithmCStyle.cpp)
+	- Kruskals Algorithm to find minimum cost spanning tree in C style [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Graph/KruskalsAlgorithmCStyle.cpp)
 	
 	 
