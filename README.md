@@ -197,5 +197,6 @@
 	- Kruskals Algorithm to find minimum cost spanning tree in C style [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Graph/KruskalsAlgorithmCStyle.cpp)
 17. **Greedy Algorithm**
 	- Knapsack problem using Greedy approach  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/GreedyAlgorithm/KnapsackProblem.cpp)
+	- Job Sequencing Deadline problem using Greedy approach  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/GreedyAlgorithm/JobSequencingDeadlineProblem.cpp)
 	
 	 
