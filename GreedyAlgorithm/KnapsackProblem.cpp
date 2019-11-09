@@ -1,3 +1,8 @@
+/*
+Problem : Out of n given objects with their corresponding  associated  weights and profits, 
+          we need to fill a bag with max weight = 15kg. So that we get maximum profit
+*/
+
 #include <iostream>
 #include <vector>
 #include <unordered_map>
