@@ -69,7 +69,7 @@
 			- Auxiliary Method using temporary array
 			- Interchange Method using swapping
 		- String Palindrome efficient method  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Strings/StringPalindrome.cpp)
-		- Merge Two Strings alternatiely  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Strings/MergeTwoStringsAlterantively.cpp)
+		- Merge Two Strings alternatively  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Strings/MergeTwoStringsAlterantively.cpp)
 4. **Matrices**
      - Diagonal Matrix
 		- C Style  [[code]](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/Matrices/DiagonalMatrixCStyle.cpp)
