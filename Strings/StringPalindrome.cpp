@@ -17,7 +17,7 @@ size_t StringLength(char str[])
 bool IsPalindrome(char str[])
 {
 	int lo = 0;
-	int hi = strlen(str) - 1;
+	int hi = StringLength(str) - 1;
 	while (hi > lo)
 	{
 		if (str[lo] != str[hi])
