@@ -202,5 +202,7 @@
 	- Job Sequencing Deadline problem using Greedy approach  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/GreedyAlgorithm/JobSequencingDeadlineProblem.cpp)
 18. **BackTracking Algorithm**
 	- N-Queens problem using backtracking  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/BackTracking/NQueensProblem.cpp)
+19. **Dynamic Programming**
+	- Coin Change problem using dynamic programming  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/DynamicProgramming/CoinChange.cpp)
 	
 	 
