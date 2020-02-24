@@ -205,5 +205,6 @@
 19. **Dynamic Programming**
 	- Coin Change problem using dynamic programming  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/DynamicProgramming/CoinChange.cpp)
 	- Longest Common Subsequence problem using dynamic programming and recursion  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/DynamicProgramming/LongestCommonSubsequence.cpp)
+	- Knapsack problem to maximize profit for non-divisible objects  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/DynamicProgramming/01KnapsackNonDivisible.cpp)
 	
 	 
