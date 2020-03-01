@@ -210,5 +210,6 @@
 	- Longest Increasing Subsequence  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/DynamicProgramming/LongestIncreasingSubsequence.cpp)
 	- Longest Bitonic Subsequence  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/DynamicProgramming/LongestBitonicSubsequence.cpp)
 	- Egg Dropping problem using dynamic programming  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/DynamicProgramming/EggDroppingProblem.cpp)
+	- Box Stacking problem using LIS logic  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/DynamicProgramming/BoxStackingProblem.cpp)
 	
 	 
