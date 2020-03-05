@@ -212,5 +212,6 @@
 	- Egg Dropping problem using dynamic programming  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/DynamicProgramming/EggDroppingProblem.cpp)
 	- Box Stacking problem using LIS logic  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/DynamicProgramming/BoxStackingProblem.cpp)
 	- Balloon Bursting problem  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/DynamicProgramming/BalloonBurstProblem.cpp)
+	- StockExchange upto K transactions to maximize profit  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/DynamicProgramming/StockExchangeUptoKTransactions.cpp)
 	
 	 
