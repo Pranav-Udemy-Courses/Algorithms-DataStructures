@@ -203,6 +203,7 @@
 18. **BackTracking Algorithm**
 	- N-Queens problem using backtracking  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/BackTracking/NQueensProblem.cpp)
 	- String Permutations using backtracking  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/BackTracking/StringPermutationsUsingBackTracking.cpp)
+	- Maze problem to find path from source to destination  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/BackTracking/MazeProblem.cpp)
 19. **Dynamic Programming**
 	- Coin Change problem using dynamic programming  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/DynamicProgramming/CoinChange.cpp)
 	- Longest Common Subsequence problem using dynamic programming and recursion  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/DynamicProgramming/LongestCommonSubsequence.cpp)
