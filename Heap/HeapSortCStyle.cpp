@@ -48,7 +48,7 @@ void DeleteFromHeap(int a[], int n)
 
 /*-------------------------------------
    Heap Sort the Elements of Array
-   Complexity : O(log(n))
+   Complexity : O(nlog(n))
 -------------------------------------*/
 void HeapSort(int a[], int size)
 {
