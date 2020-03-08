@@ -197,6 +197,7 @@
 	- Breadth First Search and Depth First Search implementation in C Style  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Graph/BFSandDFSCStyle.cpp)
 	- Prims Algorithm to find minimum cost spanning tree in C Style  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Graph/PrimsAlgorithmCStyle.cpp)
 	- Kruskals Algorithm to find minimum cost spanning tree in C style [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Graph/KruskalsAlgorithmCStyle.cpp)
+	- Topological Sorting Algorithm for DAG  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Graph/TopologicalSort.cpp)
 17. **Greedy Algorithm**
 	- Knapsack problem using Greedy approach  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/GreedyAlgorithm/KnapsackProblem.cpp)
 	- Job Sequencing Deadline problem using Greedy approach  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/GreedyAlgorithm/JobSequencingDeadlineProblem.cpp)
