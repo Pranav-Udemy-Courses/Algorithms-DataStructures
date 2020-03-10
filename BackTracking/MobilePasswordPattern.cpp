@@ -124,7 +124,7 @@ G H I
 
 Enter the encrypted pattern : AECFHGD
 
-Your password has been cracked!!! Use the following combination to unlock your phone : 1  5  3  6  8  7  4
+Your password has been cracked!!! Phone got unlocked using the following combination : 1  5  3  6  8  7  4
 
 Enter the encrypted pattern : AIFC
 
@@ -136,6 +136,6 @@ You have entered an invalid pattern !!! (As same dot can't be repeated here E)
 
 Enter the encrypted pattern : ECBDGHFI
 
-Your password has been cracked!!! Use the following combination to unlock your phone : 5  3  2  4  7  8  6  9
+Your password has been cracked!!! Phone got unlocked using the following combination : 5  3  2  4  7  8  6  9
 
 */
