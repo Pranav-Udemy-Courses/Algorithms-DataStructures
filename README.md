@@ -208,6 +208,7 @@
 	- Sudoku Solver using backtracking  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/BackTracking/SudokuSolver.cpp)
 	- Mobile Password Pattern Finder  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/BackTracking/MobilePasswordPattern.cpp)
 	- Graph Coloring Problem  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/BackTracking/GraphColoring.cpp)
+	- Hamiltonian Cycle Finder  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/BackTracking/HamiltonianCycle.cpp)
 19. **Dynamic Programming**
 	- Coin Change problem using dynamic programming  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/DynamicProgramming/CoinChange.cpp)
 	- Longest Common Subsequence problem using dynamic programming and recursion  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/DynamicProgramming/LongestCommonSubsequence.cpp)
