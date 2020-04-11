@@ -228,6 +228,30 @@ int TreeHeight(BTree_s* root)
 		return y + 1;
 }
 
+int ans;
+/*-------------------------------------
+	Diameter of Tree
+-------------------------------------*/
+int TreeDiameter(BTree_s* root)
+{
+	ans = 1;
+	Depth(root);
+	return ans-1;
+}
+
+/*-------------------------------------
+	Depth of Tree
+-------------------------------------*/
+int Depth(BTree_s* root)
+{
+	if(!root)
+		return 0;
+	int l = Depth(root->left);
+	int r = Depth(root->right);
+	ans = max(ans, l+r+1);
+	return max(l, r) + 1;
+}
+
 /*-------------------------------------
 	Main Method
 -------------------------------------*/
@@ -242,6 +266,7 @@ int main()
 	cout << "The number of nodes in binary tree of degree one are : " << CountNodesOfDegree1(root) << endl << endl;
 	cout << "The number of nodes in binary tree of degree zero are : " << CountNodesOfDegree0(root) << endl << endl;
 	cout << "The Height of binary tree is : " << TreeHeight(root) << endl << endl;
+	cout << "The Diameter of binary tree is : " << TreeDiameter(root) << endl << endl;
 	system("pause");
 	return 0;
 }
@@ -279,4 +304,6 @@ The number of nodes in binary tree of degree one are : 2
 The number of nodes in binary tree of degree zero are : 4
 
 The Height of binary tree is : 4
+
+The Diameter of binary tree is : 5
 */
