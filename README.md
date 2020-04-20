@@ -31,6 +31,7 @@
      - Delete operation in array  [[code]](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/ArrayADT/ArrayADTDelete.cpp)
      - Linear search operation on array  [[code]](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/ArrayADT/ArrayLinearSearch.cpp)
      - Binary search operation on array  [[code]](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/ArrayADT/ArrayBinarySearch.cpp)
+	 - Binary search operation on sorted rotated array  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/ArrayADT/ArrayBinarySearchOnRotatedArray.cpp)
      - Get(), Set(), Avg(), Max() functions on array  [[code]](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/ArrayADT/ArrayGetSetOperations.cpp)
      - Reversing an array  [[code]](https://github.com/Pranav-Udemy-Courses/Algorithms-DataStructures/blob/master/ArrayADT/ArrayReverse.cpp)
 		- Auxiliary method : Creating a temporary array and copying the elements to and from it
