@@ -142,6 +142,7 @@
 		- Reversing a Doubly Circular Linked List  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/LinkedList/ReversingDoublyCircularLinkedList.cpp)
 	- Student Challenge
 		- Finding middle Element of Linked List  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/LinkedList/LinkedListSCMiddleElement.cpp)
+		- LRU Cache in constant time  [[time]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Microsoft/LRUCache.cpp)
 8. **Stack**
 	- Implementation of Stack using Arrays  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Stack/StackUsingArray.cpp)
 	- Implementation of Stack using Linked List C Style  [[code]](https://github.com/ShahPranav1094-Courses/Algorithms-DataStructures/blob/master/Stack/StackUsingLinkedListCStyle.cpp)
